@@ -15,7 +15,7 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-
+INCASE SOMETHING WENT WRONT IVE ADDED THE APP IN AZIP FILE SO THAT YOU CAN DOWNLOAD IT FROM THERE
 
 in the i have used Getx on technology only saw the the email about using bloc as an option later when i was done
 because of time i didnt have the time to include maps as i would have wanted , ive also noticed a boring bug after i pushed into gitHub
